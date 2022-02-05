@@ -39,13 +39,66 @@ Over the course of the semester, you will asked to do the following:
 Course Grades
 -------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Attendance and class participation | 20% |
-| 4-page close reading of assigned passage (2 drafts) | 10% / 15% |
-| Paper project (15 pages) in 2 drafts | 15% / 20% |
-| 1-page presentation of topic, thesis and research | 5% |
-| Group presentation | 15% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance and class participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4-page close reading of assigned passage (2 drafts)
+{{< tdclose >}}
+{{< tdopen >}}
+10% / 15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper project (15 pages) in 2 drafts
+{{< tdclose >}}
+{{< tdopen >}}
+15% / 20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1-page presentation of topic, thesis and research
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Group presentation
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 MIT Literature Statement on Plagiarism
 --------------------------------------
@@ -55,19 +108,225 @@ Plagiarism—use of another's intellectual work without acknowledgement—is a s
 Course Calendar
 ---------------
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Overview; questions; what's "obscene"? | &nbsp; |
-| 2 | Shaw, "Mrs. Warren's Profession" (1893) | &nbsp; |
-| 3 |  {{< br >}}{{< br >}} Freud, "Negation" {{< br >}}{{< br >}} Foucault, "The Repressive Hypothesis" {{< br >}}{{< br >}}  | Close reading paper due |
-| 4 |  {{< br >}}{{< br >}} Houchin, "Overture: Theatrical Censorship from the Puritans to Anthony Comstock" {{< br >}}{{< br >}} {{< h 3 >}}Obscenity law readings{{< /h >}} {{< br >}}{{< br >}} Comstock, "Frauds Exposed" (1880); US Code: obscene materials (current law) 1460; 1461; US Statutes: obscene literature (1873 "Comstock Law"); Massachusetts: "An Act to Punish Unnatural and Lascivious Acts" (1887); Massachusetts Sodomy Law; Massachusetts: "Obscenity": definitions {{< br >}}{{< br >}}  | &nbsp; |
-| 5 | Ibsen, "Ghosts" (1881) | &nbsp; |
-| 6 | Aristophanes, "Lysistrata" (411 BCE) | Close reading rewrite due |
-| 7 |  {{< br >}}{{< br >}} Odets, "Waiting for Lefty" (1935) {{< br >}}{{< br >}} Research proposal presentations {{< br >}}{{< br >}}  | Presentation of topic due |
-| 8 | Hellman, "The Children's Hour" | &nbsp; |
-| 9 | Williams, "A Streetcar Named Desire" | &nbsp; |
-| 10 | Parks, "Topdog/Underdog" | Parks 8-pp draft of long paper due |
-| 11 | Corrie, Rickman, Viner, "My name is Rachel Corrie" (2005) | &nbsp; |
-| 12 | Hughes, "The Well of Horniness" (1984) and "Clit Notes" (1994) | &nbsp; |
-| 13 |  {{< br >}}{{< br >}} Ensler, "The Vagina Monologues" (1996) {{< br >}}{{< br >}} Presentations {{< br >}}{{< br >}}  | Final draft of research paper due |
-| 14 |  {{< br >}}{{< br >}} Last class {{< br >}}{{< br >}} Papers returned {{< br >}}{{< br >}} Evaluations {{< br >}}{{< br >}} Ideas for the future {{< br >}}{{< br >}}  |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Overview; questions; what's "obscene"?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Shaw, "Mrs. Warren's Profession" (1893)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Freud, "Negation"
+
+Foucault, "The Repressive Hypothesis"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Close reading paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Houchin, "Overture: Theatrical Censorship from the Puritans to Anthony Comstock"
+
+### Obscenity law readings
+
+Comstock, "Frauds Exposed" (1880); US Code: obscene materials (current law) 1460; 1461; US Statutes: obscene literature (1873 "Comstock Law"); Massachusetts: "An Act to Punish Unnatural and Lascivious Acts" (1887); Massachusetts Sodomy Law; Massachusetts: "Obscenity": definitions
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Ibsen, "Ghosts" (1881)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Aristophanes, "Lysistrata" (411 BCE)
+{{< tdclose >}}
+{{< tdopen >}}
+Close reading rewrite due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Odets, "Waiting for Lefty" (1935)
+
+Research proposal presentations
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Presentation of topic due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Hellman, "The Children's Hour"
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Williams, "A Streetcar Named Desire"
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Parks, "Topdog/Underdog"
+{{< tdclose >}}
+{{< tdopen >}}
+Parks 8-pp draft of long paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Corrie, Rickman, Viner, "My name is Rachel Corrie" (2005)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Hughes, "The Well of Horniness" (1984) and "Clit Notes" (1994)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Ensler, "The Vagina Monologues" (1996)
+
+Presentations
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Final draft of research paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Last class
+
+Papers returned
+
+Evaluations
+
+Ideas for the future
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

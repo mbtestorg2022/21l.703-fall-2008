@@ -65,18 +65,161 @@ Butterfield, Fox. "[Boston Journal; In a Furor Over Photos, An Echo of City's Pa
 
 [_Defending Reproductive Rights in Cyberspace_](http://www.aclu.org/reproductiverights/gen/16532res19961031.html). American Civil Liberties Union, October 31, 1996.
 
-| WEEK # | {{< anchor "Readings" >}}{{< /anchor >}}READINGS |
-| --- | --- |
-| 1 | Overview; questions; what's "obscene"? |
-| 2 | Shaw, Bernard. [_Mrs. Warren's Profession_](http://www.gutenberg.org/etext/1097) (1893). |
-| 3 |  {{< br >}}{{< br >}} Freud, Sigmund. "Negation." In _The Standard Edition of the Complete Works of Sigmund Freud_. Translated by James Stachey, et al. London, UK: Hogarth Press, 1961, pp. 233-39. {{< br >}}{{< br >}} Foucault, Michel. "The Repressive Hypothesis." In _A History of Sexuality_. Vol. 1. Tanslated by Robert Henley. New York, NY: Pantheon Books, 1978. ISBN: 9780394417752. {{< br >}}{{< br >}}  |
-| 4 |  {{< br >}}{{< br >}} Houchin, John. "Overture: Theatrical Censorship from the Puritans to Anthony Comstock." In _Censorship of the American Theater in the Twentieth Century_. Cambridge, UK: Cambridge University Press, 2003. ISBN: 9780521818193. {{< br >}}{{< br >}} {{< h 3 >}}Obscenity law readings{{< /h >}} {{< br >}}{{< br >}} Comstock, Anthony. Excerpts from _Frauds Exposed; or, How the People are Deceived and Robbed, and the Youth Corrupted_. Montclair, NJ: Patterson Smith, 1969. ISBN: 9780875850795. {{< br >}}{{< br >}} _U.S. Code Annotated (Title 18, Rules 371-700): Crimes and Criminal Procedures_. Los Angeles, CA: West Group Publishing, 2000, pp. 85-88. {{< br >}}{{< br >}} Statutes at Large and Proclamations of the USA from March 1871 to march 1873 and Treaties and Postal Conventions. {{< br >}}{{< br >}} US Code: obscene materials (current law) 1460; 1461; US Statutes: obscene literature (1873 "Comstock Law"); Massachusetts: "An Act to Punish Unnatural and Lascivious Acts" (1887); Massachusetts Sodomy Law; Massachusetts: "Obscenity": definitions. {{< br >}}{{< br >}}  |
-| 5 | Ibsen, Henrik. [_Ghosts_](http://www.gutenberg.org/etext/2467) (1881). |
-| 6 | Aristophanes. [_Lysistrata_](http://www.gutenberg.org/etext/7700) (411 BCE). |
-| 7 | Odets, Clifford. _Waiting for Lefty_ (1935). |
-| 8 | Hellman, Lillian. _The Children's Hour_ (1934). |
-| 9 | Williams, Tennessee. _A Streetcar Named Desire_ (1947). |
-| 10 | Parks, Suzan-Lori. _Topdog/Underdog_ (1988). |
-| 11 | Corrie, Rachel, Alan Rickman, and Katherine Viner. _My Name is Rachel Corrie_. 2nd ed. London, UK: Nick Hern Books, 2008. ISBN: 9781854599469. |
-| 12 |  {{< br >}}{{< br >}} Hughes, Holly. _The Well of Horniness_ (1983). {{< br >}}{{< br >}} ———. _Clit Notes: A Sapphic Sampler_. 1st ed. New York, NY: Grove Press, 1996. ISBN: 9780802133335. {{< br >}}{{< br >}}  |
-| 13 | Ensler, Eve. _The Vagina Monologues_. New York, NY: Villard, 2007. ISBN: 9780345498601.
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+{{< anchor "Readings" >}}{{< /anchor >}}READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Overview; questions; what's "obscene"?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Shaw, Bernard. [_Mrs. Warren's Profession_](http://www.gutenberg.org/etext/1097) (1893).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Freud, Sigmund. "Negation." In _The Standard Edition of the Complete Works of Sigmund Freud_. Translated by James Stachey, et al. London, UK: Hogarth Press, 1961, pp. 233-39.
+
+Foucault, Michel. "The Repressive Hypothesis." In _A History of Sexuality_. Vol. 1. Tanslated by Robert Henley. New York, NY: Pantheon Books, 1978. ISBN: 9780394417752.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Houchin, John. "Overture: Theatrical Censorship from the Puritans to Anthony Comstock." In _Censorship of the American Theater in the Twentieth Century_. Cambridge, UK: Cambridge University Press, 2003. ISBN: 9780521818193.
+
+### Obscenity law readings
+
+Comstock, Anthony. Excerpts from _Frauds Exposed; or, How the People are Deceived and Robbed, and the Youth Corrupted_. Montclair, NJ: Patterson Smith, 1969. ISBN: 9780875850795.
+
+_U.S. Code Annotated (Title 18, Rules 371-700): Crimes and Criminal Procedures_. Los Angeles, CA: West Group Publishing, 2000, pp. 85-88.
+
+Statutes at Large and Proclamations of the USA from March 1871 to march 1873 and Treaties and Postal Conventions.
+
+US Code: obscene materials (current law) 1460; 1461; US Statutes: obscene literature (1873 "Comstock Law"); Massachusetts: "An Act to Punish Unnatural and Lascivious Acts" (1887); Massachusetts Sodomy Law; Massachusetts: "Obscenity": definitions.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Ibsen, Henrik. [_Ghosts_](http://www.gutenberg.org/etext/2467) (1881).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Aristophanes. [_Lysistrata_](http://www.gutenberg.org/etext/7700) (411 BCE).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Odets, Clifford. _Waiting for Lefty_ (1935).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Hellman, Lillian. _The Children's Hour_ (1934).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Williams, Tennessee. _A Streetcar Named Desire_ (1947).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Parks, Suzan-Lori. _Topdog/Underdog_ (1988).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Corrie, Rachel, Alan Rickman, and Katherine Viner. _My Name is Rachel Corrie_. 2nd ed. London, UK: Nick Hern Books, 2008. ISBN: 9781854599469.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Hughes, Holly. _The Well of Horniness_ (1983).
+
+———. _Clit Notes: A Sapphic Sampler_. 1st ed. New York, NY: Grove Press, 1996. ISBN: 9780802133335.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Ensler, Eve. _The Vagina Monologues_. New York, NY: Villard, 2007. ISBN: 9780345498601.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

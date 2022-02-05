@@ -25,7 +25,52 @@ Course Assignments
 {{< anchor "Student_Work" >}}{{< /anchor >}}Student Work
 --------------------------------------------------------
 
-| STUDENTS | ASSIGNMENTS |
-| --- | --- |
-| Naomi Stein |  {{< br >}}{{< br >}} Final draft ([PDF]({{< baseurl >}}/resources/finaldraft)) {{< br >}}{{< br >}} (Courtesy of Naomi Stein. Used with permission.) {{< br >}}{{< br >}}  |
-| MIT student |  {{< br >}}{{< br >}} Warrens close reading revision ([PDF]({{< baseurl >}}/resources/warencl_readrev)) {{< br >}}{{< br >}} Research paper ([PDF]({{< baseurl >}}/resources/researchpaper)) {{< br >}}{{< br >}} Childrens hour ([PDF]({{< baseurl >}}/resources/childrenshour)) {{< br >}}{{< br >}} (Courtesy of MIT Student. Used with permission.) {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+STUDENTS
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Naomi Stein
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Final draft ([PDF]({{< baseurl >}}/resources/finaldraft))
+
+(Courtesy of Naomi Stein. Used with permission.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+MIT student
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Warrens close reading revision ([PDF]({{< baseurl >}}/resources/warencl_readrev))
+
+Research paper ([PDF]({{< baseurl >}}/resources/researchpaper))
+
+Childrens hour ([PDF]({{< baseurl >}}/resources/childrenshour))
+
+(Courtesy of MIT Student. Used with permission.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
